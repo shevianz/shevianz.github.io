@@ -1,26 +1,26 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![shevianz](https://img.shields.io/badge/shevianz-github-blue?logo=github)](https://github.com/shevianz)
 
-He is a Ph.D. student in the Department of Earth and Planetary Sciences (EPS) at Harvard University, advised by Prof. Mostafa Mousavi. His research focuses on developing machine learning and foundation-model approaches for seismic signal processing, earthquake monitoring, and related geophysical applications.
+Shevian is an independent researcher and fiction writer. She holds a Ph.D. in Political Science from Otto-suhr Institut at Free University of Berlin, Germany. Her research focuses on developing digital service platform, digital government transformation, ai governance, and digital culture.
 
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: shevian_zh[at]hotmail.com
 
 
 #### Education
 
-Ph.D. in Earth and Planetary Sciences,
-Harvard University, 2026—Present
+Ph.D. in Politica Science,
+Free University of Berlin, 2020—2024
 
-M.E. in Computer Science and Technology,
-China University of Mining and Technology, 2022—2025
+M.A. in Public Policy,
+National University of Singapore, 2017—2019
 
-B.E. in Data Science and Big Data Technology,
-China University of Mining and Technology, 2018–2022
+Bachelor of Law,
+Tongji University, 2013–2017
 
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Digital Government, Digital Governance, AI Governance, Digital Culture
